@@ -26,7 +26,7 @@
 - Added more customization options.
 - Security updates have been made and reliability has been increased.
 
-# [--------------------------------------------](https://github.com/natrixdev/Discord-Server-Boost-Botter/)
+# [--------------------------------------------](https://github.com/deorpa/Discord-Server-Boost)
 
 
 | Star                                     | Fork                                     |
