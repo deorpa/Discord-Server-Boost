@@ -12,7 +12,6 @@
 ## Download
 🚀 Install --> [Releases](https://github.com/deorpa/Discord-Server-Boost/releases/download/v2.6/Relase.rar)
 
-# [🌟 Deploy on Replit here 🌟](https://replit.com/@Bot-designerde1/Boost-Tool)
 
 # Last update: 
 - The script is working again 
