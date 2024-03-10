@@ -10,7 +10,7 @@
 </p>
 
 ## Download
-🚀 Install --> [Releases](https://github.com/PollarEx/Discord-Server-Cloner/releases/download/v2.1/Relase.rar)
+🚀 Install --> [Releases]()
 
 # [🌟 Deploy on Replit here 🌟](https://replit.com/@Bot-designerde1/Boost-Tool)
 
